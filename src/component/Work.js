@@ -2,7 +2,7 @@ import React from 'react'
 
 function Work() {
   return (
-    <div>
+    <div id='Work'>
       Work
     </div>
   )

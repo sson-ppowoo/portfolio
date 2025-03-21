@@ -46,7 +46,7 @@ const filesDownload = () => {
 
 function About() {
   return (
-    <div className="About">
+    <div id="About" className="About">
       <h2 className="About_title">About</h2>
 
       <div className="About_Allbox">

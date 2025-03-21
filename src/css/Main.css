@@ -80,12 +80,12 @@
   gap: 40px;
 }
 .main_text .text_motto{
-  /* font-family: ; */
+  font-family: 'SupermercadoOne.ttf';  
   font-size: 3rem;
   font-weight: 900;
 }
 .main_text .text_song{
-  /* font-family: ; */
+  font-family: 'Jua'; 
   font-size: 1rem;
   line-height: 40px;
   font-weight: 700;

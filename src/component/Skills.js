@@ -113,7 +113,7 @@ const Icon = [
 
 function Skills() {
   return (
-    <div className="skills">
+    <div id="Skills" className="skills">
       <h2>Skills</h2>
 
       <figure className="skills_Banner">
